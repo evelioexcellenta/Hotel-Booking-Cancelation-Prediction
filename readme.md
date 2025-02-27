@@ -192,7 +192,6 @@ Pada tahap ini, kita akan menggunakan RandomizedSearchCV untuk:
 - Menjelajahi ruang hyperparameter yang luas dengan efisien.
 - Memilih kombinasi parameter terbaik berdasarkan kinerja model pada data validasi
 
-%% [markdown]
 ## Hyperparameter Tuning dengan RandomizedSearchCV
 
 Pada tahap ini, dilakukan **Hyperparameter Tuning** pada **XGBoost** menggunakan **RandomizedSearchCV**. 
